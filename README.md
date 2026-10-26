@@ -8,7 +8,7 @@ Latest APK: https://github.com/xElvolution/unitrade-android/releases/download/an
 
 Release page: https://github.com/xElvolution/unitrade-android/releases/tag/android-latest
 
-- Version: 1.0.0
-- SHA-256: e6bf873570962d2478fb3d7c9d143ca9887f849a4238b0628de9f8a6fbc3f0a5
+- Version: 1.1.0
+- SHA-256: 90ec06ed40bcdd89e114122a00ea186244ba64713a65845c306462256c9cdbf5
 
 To install, download the APK on your Android device and allow installs from your browser or file manager when prompted.
